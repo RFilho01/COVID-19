@@ -12,3 +12,5 @@
   ![alt text](https://github.com/RFilho01/COVID-19/blob/master/imagens/mapa_considerando_incidencia.PNG?raw=true)
   
   Com esse mapa percebemos que o estado do Amapá está com a maior incidência, ou seja, mais pessoas contaminadas com COVID-19 a cada 1 milhão de habitantes, seguido do Estado do Amazonas.
+  
+  A análise foi realizada com dados do dia 11 de junho de 2020.
